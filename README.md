@@ -10,31 +10,13 @@ Simple boilerplate using Parcel + Vue + Vuex + Vue-Router.
 5. `cd your-project-name`
 6. `npm run dev` (this will install dependencies also)
 
+If you are running windows rename `prebuild` to `prebuild_if_linux` and `prebuild_if_windows` to `prebuild`.
+
 
 ### Install other modules
 
 Production: `npm install buefy`
 
 Development: `npm install typescript --save-dev`
-
-
-### Build
-
-By default when you run `npm run build` it will remove `dev` folder.
-
-If you are running windows rename `prebuild` to `prebuild_if_linux` and `prebuild_if_windows` to `prebuild`.
-
-```
-...
-  "prebuild": "rm -rf dist",
-  "prebuild_if_windows": "rmdir dist /s /q"
-...
-
-```
-
-Parcel `prebuild` assures that there are no duplicate files in dist folder when running npm build.
-
-
-
 
 
