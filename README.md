@@ -11,7 +11,7 @@ Simple boilerplate using Parcel + Vue + Vuex + Vue-Router.
 6. `npm run dev` (this will install dependencies also)
 
 
-### Customize it by installing other modules
+#### Customize it by installing other modules
 
 Production: `npm install buefy`
 
