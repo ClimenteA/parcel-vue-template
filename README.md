@@ -10,8 +10,6 @@ Simple boilerplate using Parcel + Vue + Vuex + Vue-Router.
 5. Rename from package.json file the field `"name": "parcel-vue-vuex-vue-router-template"` to `"name": "your-project-name"` 
 6. `npm run dev` (this will install dependencies also)
 
-Or clone this repo where you want.
-
 
 ### Customize it by installing other modules
 
