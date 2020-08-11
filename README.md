@@ -10,7 +10,6 @@ Simple boilerplate using Parcel + Vue + Vuex + Vue-Router.
 5. `cd your-project-name`
 6. `npm run dev` (this will install dependencies also)
 
-If you are running windows rename `prebuild` to `prebuild_if_linux` and `prebuild_if_windows` to `prebuild`.
 
 
 ### Install other modules
