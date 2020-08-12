@@ -18,3 +18,4 @@ Production: `npm install buefy`
 Development: `npm install typescript --save-dev`
 
 
+![layout](https://github.com/ClimenteA/parcel-vue-template/blob/master/src/assets/parcelvuetemplate.svg)
